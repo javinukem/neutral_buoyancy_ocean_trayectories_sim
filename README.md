@@ -12,4 +12,4 @@ In this project, we developed a code in Python that computes these helices and t
 
 Javier Palau Alegria
 - Contact email: javier.palau.alegria@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/javier-palau-alegria-215444237/)
+- [LinkedIn](https://www.linkedin.com/in/javier-palau-alegria/)
