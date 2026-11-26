@@ -1,4 +1,4 @@
-# neutral_buoyancy_ocean_trayectories_sim
+# Neutral buoyancy trajectories in the ocean
 Python code that computes neutral buoyancy trajectories for imaginary closed horizontal trajectories through the ocean. Bachelor Thesis done in 2024 at Imperial College with Juan Alfárez under Czaja Arnaud's supervision.
 
 The WOCE dataset required to use this repository's code is available at:
